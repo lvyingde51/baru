@@ -63,7 +63,7 @@ bot.dialog('/distanceDialog',
 bot.dialog('/lifeDialog', 
     function(session)
     {
-        session.endDialog('Yes, there is life on Mars although not yet discovered by primitive humans.');
+        session.endDialog('Opo cuk?');
     }
 )
 
